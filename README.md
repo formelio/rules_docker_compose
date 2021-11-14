@@ -1,2 +1,1 @@
-# bazel-docker-compose
-Bazel rules for Docker Compose
+# Bazel rules for Docker Compose
